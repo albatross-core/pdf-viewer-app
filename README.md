@@ -2,6 +2,8 @@
 
 A standalone PDF browser application that connects to AWS S3 to browse and view PDF files with a modern React interface.
 
+![PDF Viewer App Screenshot](.github/assets/screenshot.png)
+
 ## Features
 
 - 📁 Browse PDF files from S3 buckets
